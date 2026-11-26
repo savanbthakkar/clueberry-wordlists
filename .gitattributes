@@ -1,0 +1,4 @@
+# The lists are data: keep them LF everywhere so a clone on Windows does
+# not rewrite every line and make the next diff unreadable.
+*.txt text eol=lf
+*.md text eol=lf

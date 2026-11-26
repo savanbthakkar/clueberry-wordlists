@@ -1,0 +1,8 @@
+French dictionary from Dictionnaires orthographiques français (“Classique”),
+version 7.7, by Olivier R., published at https://grammalecte.net and
+redistributed in the LibreOffice dictionaries repository. This Source Code
+Form is subject to the terms of the Mozilla Public License, v. 2.0. If a
+copy of the MPL was not distributed with this file, You can obtain one at
+http://mozilla.org/MPL/2.0/. The list in this game is a modified version of
+that dictionary; the modifications are published at
+https://github.com/savanbthakkar/clueberry-wordlists.

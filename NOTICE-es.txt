@@ -1,0 +1,10 @@
+Spanish dictionary from the RLA-ES project (Recursos lingüísticos abiertos
+del español), version 2.9, by Santiago Bosio and contributors, from
+https://github.com/sbosio/rla-es. Offered by its authors under a choice of
+GNU GPL v3 or later, GNU LGPL v3 or later, or Mozilla Public License version
+1.1 or later; used here under the Mozilla Public License version 2.0. This
+Source Code Form is subject to the terms of the Mozilla Public License, v.
+2.0. If a copy of the MPL was not distributed with this file, You can obtain
+one at http://mozilla.org/MPL/2.0/. The list in this game is a modified
+version of that dictionary; the modifications are published at
+https://github.com/savanbthakkar/clueberry-wordlists.
